@@ -12,13 +12,10 @@ Here is my digital garden, I hope I can learn something useful
 <a href='mailto:alexkyleeee@outlook.com/'><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 <a href='https://telegram.me/alexkyleeee/'><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 <a href='https://open.spotify.com/user/m4hkj61zfcat0azhv4zq0uraa'><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-          ![Profile views](https://gpvc.arturio.dev/congjinyebaiya)  
 
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congjinyebaiya)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=congjinyebaiya&show_icons=true&count_private=true)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=congjinyebaiya)  
 
 ## Languages
