@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Alex Kyle
 ![info](https://github-readme-stats.vercel.app/api?username=congjinyebaiya&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
-## linux
+## Linux
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 
 
