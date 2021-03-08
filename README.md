@@ -1,8 +1,8 @@
 ## Hi, Alex Kyle here! 👋 
-<a href="https://open.spotify.com/user/m4hkj61zfcat0azhv4zq0uraa
-		 si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/congjinyebaiya)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alex_kyleeee/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fluoxetine12.icu/)  
+
 ![](https://visitor-badge.glitch.me/badge?page_id=congjinyebaiya.readme)
 
 ## GitHub Stats
