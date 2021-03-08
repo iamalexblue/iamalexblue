@@ -13,8 +13,7 @@
 ## Games
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/fluoxetine12)
 
-
-
+## Status
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning [Python](https://www.python.org/)
 - 📫 How to reach me: [alexkyle@congjinyebaiya.wang](mailto:alexkyle@congjinyebaiya.wang)
