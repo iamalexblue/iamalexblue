@@ -1,6 +1,4 @@
 ## Hi there 👋
-![](https://visitor-badge.glitch.me/badge?page_id=congjinyebaiya.readme)
-
 ![info](https://github-readme-stats.vercel.app/api?username=congjinyebaiya&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 ## linux
@@ -34,4 +32,7 @@ jobs:
 - 🌱 I’m currently learning [Python](https://www.python.org/)
 - 📫 How to reach me: [alexkyle@congjinyebaiya.wang](mailto:alexkyle@congjinyebaiya.wang)
 - ⚡ Fun fact: ...
+
+## Visitor statistics
+![](https://visitor-badge.glitch.me/badge?page_id=congjinyebaiya.readme)
 
