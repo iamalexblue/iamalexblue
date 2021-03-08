@@ -6,7 +6,6 @@ Here is my digital garden, I hope I can learn something useful
 - 🔭 I’m currently working on Study and improve myself
 - 🌱 I’m currently learning [Python](https://www.python.org/)
 - 📫 How to reach me: [alexkyle@congjinyebaiya.wang](mailto:alexkyle@congjinyebaiya.wang)
-- ⚡ Fun fact: ...
 
 <a href='https://www.instagram.com/alex_kyleeee/'><img alt="Instagram" src="https://img.shields.io/badge/<instagram>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 <a href='mailto:alexkyleeee@outlook.com/'><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
