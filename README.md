@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Alex Kyle
+## Hi, Alex Kyle here! 👋 
 <a href="https://open.spotify.com/user/m4hkj61zfcat0azhv4zq0uraa
 		 si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
