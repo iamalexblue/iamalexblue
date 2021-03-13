@@ -34,5 +34,4 @@ Here is my digital garden, I hope I can learn something useful
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=congjinyebaiya&show_icons=true&count_private=true)  
 
 ## Status
-<script src="https://gist.github.com/congjinyebaiya/f8ce0239b858e9c1454d45795d420aed.js"></script>
-
+<script src="https://gist.github.com/congjinyebaiya/b328fb48140e56acda25f44cc1695351.js"></script>
