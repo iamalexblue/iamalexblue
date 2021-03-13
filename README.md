@@ -33,5 +33,20 @@ Here is my digital garden, I hope I can learn something useful
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congjinyebaiya)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=congjinyebaiya&show_icons=true&count_private=true)  
 
-
+## Status
+name: Update gist with WakaTime stats
+on:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Update gist
+        uses: matchai/waka-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: f8ce0239b858e9c1454d45795d420aed
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
