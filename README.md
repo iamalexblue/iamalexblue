@@ -33,6 +33,3 @@ Here is my digital garden, I hope I can learn something useful
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congjinyebaiya)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=congjinyebaiya&show_icons=true&count_private=true)  
 
-## Status
-<script src="https://gist.github.com/congjinyebaiya/b328fb48140e56acda25f44cc1695351.js"></script>
-https://gist.github.com/congjinyebaiya/b328fb48140e56acda25f44cc1695351
