@@ -6,7 +6,7 @@ Here is my digital garden, I hope I can learn something useful here
 - 🔭 I’m currently working on coding and improving myself
 - 🌱 I’m currently learning [Python](https://www.python.org/)
 - 📫 How to reach me: [alexkyle@congjinyebaiya.wang](mailto:alexkyle@congjinyebaiya.wang), feel free to contact with me.
-- This is my personal page [fluoxetine12](https://fluoxetine12.icu/)
+- This is my personal page [fluoxetine12](https://fluoxetine12.icu/) and [YuQue-Blog](https://www.yuque.com/congjinyebai/alexkyle)
 
 <a href='https://www.instagram.com/alex_kyleeee/'><img alt="Instagram" src="https://img.shields.io/badge/<instagram>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 <a href='mailto:alexkyleeee@outlook.com/'><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
@@ -23,7 +23,4 @@ Here is my digital garden, I hope I can learn something useful here
 ## Games
 <a href='https://steamcommunity.com/id/fluoxetine12'><img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
 
-## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congjinyebaiya)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=congjinyebaiya&show_icons=true&count_private=true)  
 
