@@ -18,9 +18,9 @@ Here is my digital garden, I hope I can learn something useful here
 
 <h4> Latest Blog Posts: </h4>
 
-{{#each record}}
-  - [{{title}} ( {{short created_at "MM-dd"}} · {{math likes_count "*" 7}} 颗稻谷)](https://yuque.com/{{@root.namespace}}/{{slug}})
-{{/each}}
+  - [再见，大象 ( 03-28 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/20210328)
+  - [Hey ( 03-15 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/gyp2xq)
+  - [利用 Pandoc 将 Markdown 转换为 Word、pdf ( 03-12 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/hsyxm4)
 
 
 <p align="right"><a href="https://www.yuque.com/congjinyebai/alexkyle">➡️ More blog posts</a></p>
