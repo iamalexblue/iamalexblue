@@ -20,14 +20,8 @@ Here is my digital garden, I hope I can learn something useful here
 <a href='https://commonmark.org/help/'><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <a href='https://developer.mozilla.org/zh-CN/docs/Web/JavaScript'><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-## OS
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-
 ## Games
 <a href='https://steamcommunity.com/id/fluoxetine12'><img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
-<a href='https://www.ubisoft.com'><img alt="Ubisoft" src="https://img.shields.io/badge/Ubisoft%20-%23F5F5F5.svg?&style=for-the-badge&logo=Ubisoft&logoColor=black"/>        
 
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congjinyebaiya)](https://github.com/anuraghazra/github-readme-stats)
