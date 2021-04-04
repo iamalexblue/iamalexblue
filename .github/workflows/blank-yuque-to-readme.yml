@@ -36,7 +36,7 @@ jobs:
           yuque-namespace: congjinyebai/alexkyle
           # 是否只列出已发布的文章
           yuque-doc-public-only: true
-          yuque-doc-limit: 3
+          yuque-doc-limit: 5
           # 按什么字段排序
           yuque-doc-order-by: updated_at
           # Template for generate output
