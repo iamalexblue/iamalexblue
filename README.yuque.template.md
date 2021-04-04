@@ -16,7 +16,7 @@ Here is my digital garden, I hope I can learn something useful here
 <a href='https://open.spotify.com/user/m4hkj61zfcat0azhv4zq0uraa'><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 <a href='https://steamcommunity.com/id/fluoxetine12'><img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
 
-<h4> Latest Blog Posts: </h4>
+## Latest Blog Posts:
 
 {{#each record}}
   - [{{title}} ( {{short created_at "MM-dd"}} · {{math likes_count "*" 7}} 颗稻谷)](https://yuque.com/{{@root.namespace}}/{{slug}})
