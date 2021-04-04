@@ -26,22 +26,22 @@ jobs:
       - uses: actions/checkout@v2
       
       - name: yuque to readme
-  # You may pin to the exact commit or the version.
-  # uses: RaoHai/yuque2Readme@ddf572a719fff0c07a55df02038030fb59aadfa3
-  uses: RaoHai/yuque2Readme@1.0.4
-  with:
-    # secrets.YUQUE_TOKEN. 语雀的 token，去 https://www.yuque.com/settings/tokens 里找。需要读取你的知识库和文档。
-    yuque-token: yghOjY3wtKKQGHcSdrkuMJSKniGKRKfiT0POqqT8
-    # 填你自己的空间标识。比如语雀的博客是： `yuque/blog`
-    yuque-namespace: congjinyebai/alexkyle
-    # 是否只列出已发布的文章
-    yuque-doc-public-only: true
-    yuque-doc-limit: # optional, default is 5
-    # 按什么字段排序
-    yuque-doc-order-by: # optional, default is updated_at
-    # Template for generate output
-    yuque-template-file: README.yuque.template.md
-    yuque-output-file: # optional, default is README.md
+       # You may pin to the exact commit or the version.
+       # uses: RaoHai/yuque2Readme@ddf572a719fff0c07a55df02038030fb59aadfa3
+        uses: RaoHai/yuque2Readme@1.0.4
+        with:
+          # secrets.YUQUE_TOKEN. 语雀的 token，去 https://www.yuque.com/settings/tokens 里找。需要读取你的知识库和文档。
+          yuque-token: yghOjY3wtKKQGHcSdrkuMJSKniGKRKfiT0POqqT8
+          # 填你自己的空间标识。比如语雀的博客是： `yuque/blog`
+          yuque-namespace: congjinyebai/alexkyle
+          # 是否只列出已发布的文章
+          yuque-doc-public-only: true
+          yuque-doc-limit: 3
+          # 按什么字段排序
+          yuque-doc-order-by: updated_at
+          # Template for generate output
+          yuque-template-file: README.yuque.template.md
+          yuque-output-file: README.md
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
