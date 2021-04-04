@@ -41,8 +41,7 @@ jobs:
     # 按什么字段排序
     yuque-doc-order-by: # optional, default is updated_at
     # Template for generate output
-    yuque-template-file: # optional, default is README.template.md
-    # Which file to write
+    yuque-template-file: README.yuque.template.md
     yuque-output-file: # optional, default is README.md
 
       # Runs a single command using the runners shell
