@@ -2,7 +2,7 @@
 ![Live as u wish](https://congjinyebaiya-pics.oss-cn-hangzhou.aliyuncs.com/default.new.png)
 
 ## About
-Here is my digital garden, I hope I can learn something useful.
+Here is my digital garden, I hope I can learn something useful here
 - 🔭 I’m currently working on coding and improving myself
 - 🌱 I’m currently learning [Python](https://www.python.org/)
 - 📫 How to reach me: [alexkyle@congjinyebaiya.wang](mailto:alexkyle@congjinyebaiya.wang), feel free to contact with me.
