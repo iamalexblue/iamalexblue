@@ -4,7 +4,7 @@
 ## About
 Here is my digital garden, I hope I can learn something useful here
 - 🔭 I’m currently working on coding and improving myself
-- 🌱 I’m currently learning [Python](https://www.python.org/) and UI&UX
+- 🌱 I’m currently learning [Python](https://www.python.org/)
 - 📫 How to reach me: [alexkyle@congjinyebaiya.wang](mailto:alexkyle@congjinyebaiya.wang), feel free to contact with me.
 - This is my personal page [fluoxetine12](https://fluoxetine12.icu/) and [YuQue-Blog](https://www.yuque.com/congjinyebai/alexkyle)
 
@@ -18,11 +18,11 @@ Here is my digital garden, I hope I can learn something useful here
 
 ## Latest YuQue-Blog Posts: 
 
-  - [再见，大象 ( 03-28 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/20210328)
+  - [朋友圈挤占了个人思考的空间 ( 04-18 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/nqfd4c)
+  - [再见，大象 ( 03-28 · 7 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/20210328)
   - [Hey ( 03-15 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/gyp2xq)
   - [利用 Pandoc 将 Markdown 转换为 Word、pdf ( 03-12 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/hsyxm4)
   - [关于双链笔记的思考 ( 03-12 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/tbbeef)
-  - [企业管理协作平台，哪个才是未来？ ( 01-19 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/hfdgs1)
 
 
 <p align="right"><a href="https://www.yuque.com/congjinyebai/alexkyle">➡️ More blog posts</a></p>
