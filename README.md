@@ -4,7 +4,7 @@
 ## About
 Here is my digital garden, I hope I can learn something useful here
 - 🔭 I’m currently working on coding and improving myself
-- 🌱 I’m currently learning [Python](https://www.python.org/)
+- 🌱 I’m currently learning [Python](https://www.python.org/) and UI&UX
 - 📫 How to reach me: [alexkyle@congjinyebaiya.wang](mailto:alexkyle@congjinyebaiya.wang), feel free to contact with me.
 - This is my personal page [fluoxetine12](https://fluoxetine12.icu/) and [YuQue-Blog](https://www.yuque.com/congjinyebai/alexkyle)
 
