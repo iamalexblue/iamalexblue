@@ -1,5 +1,4 @@
-# Hi, Alex Kyle here! 👋 
-![Live as u wish](https://congjinyebaiya-pics.oss-cn-hangzhou.aliyuncs.com/default.new.png)
+# Hi, Alex Blue here! 👋 
 
 ## About
 Here is my digital garden, I hope I can learn something useful here
@@ -17,6 +16,7 @@ Here is my digital garden, I hope I can learn something useful here
 <a href='https://steamcommunity.com/id/fluoxetine12'><img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
 
 ## Latest YuQue-Blog Posts: 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=alexblue-github-page)
 
   - [真正的结束，也正是开始 ( 06-03 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/bf32yf)
   - [朋友圈挤占了个人思考的空间 ( 04-18 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/nqfd4c)
