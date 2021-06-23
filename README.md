@@ -1,14 +1,15 @@
 # Hi, Alex Blue here! 👋 
 
 ## About
-Here is my digital garden, I hope I can learn something useful here
-- 🔭 I’m currently working on coding and improving myself
-- 🌱 I’m currently learning [Python](https://www.python.org/)
-- 📫 How to reach me: [alexkyle@congjinyebaiya.wang](mailto:alexkyle@congjinyebaiya.wang), feel free to contact with me.
+A college student who has a dream of coding but is now studying design, here is my digital garden.
+- 🔭 I’m currently working on learning **[Figma](https://www.figma.com/) 、English and Japanese**.
+- 📫 How to reach me: [alex@iamalex.blue](mailto:alex@iamalex.blue), feel free to contact with me.
 - This is my personal page [fluoxetine12](https://fluoxetine12.icu/) and [YuQue-Blog](https://www.yuque.com/congjinyebai/alexkyle)
 
-## How to know more about me
+## My tools
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
+## How to know more about me
 <a href='https://twitter.com/fluoxetine12dot'><img alt="Twitter" src="https://img.shields.io/badge/<Twitter>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 <a href='https://www.instagram.com/iamalexblue/'><img alt="Instagram" src="https://img.shields.io/badge/<instagram>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 <a href='mailto:alexkyleeee@outlook.com/'><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
@@ -16,14 +17,18 @@ Here is my digital garden, I hope I can learn something useful here
 <a href='https://telegram.me/Lauwish12/'><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 <a href='https://steamcommunity.com/id/fluoxetine12'><img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
 
+## Acknowledgments
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  
 ## Latest YuQue-Blog Posts: 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alexblue-github-page)
 
+  - [浅谈 Microsoft Store 在国内的使用 ( 06-22 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/ku96a2)
   - [朋友圈挤占了个人思考的空间 ( 04-18 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/nqfd4c)
   - [再见，大象 ( 03-28 · 7 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/20210328)
   - [Hey ( 03-15 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/gyp2xq)
   - [利用 Pandoc 将 Markdown 转换为 Word、pdf ( 03-12 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/hsyxm4)
-  - [关于双链笔记的思考 ( 03-12 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/tbbeef)
 
 
 <p align="right"><a href="https://www.yuque.com/congjinyebai/alexkyle">➡️ More blog posts</a></p>
