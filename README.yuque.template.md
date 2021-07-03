@@ -1,7 +1,7 @@
 # Hi, Alex Blue here! 👋 
 
 ## About
-A college student who has a dream of coding but is now studying design, here is my digital garden.
+A college student who has a dream of coding but is now studying design.
 - 🔭 I’m currently working on learning **[Figma](https://www.figma.com/) 、English and Japanese**.
 - 📫 How to reach me: [alex@iamalex.blue](mailto:alex@iamalex.blue), feel free to contact with me.
 - 📢 This is my personal page [alexblue 的自留地](https://iamalex.blue/) and [YuQue-Blog](https://www.yuque.com/alexblue_blog)
