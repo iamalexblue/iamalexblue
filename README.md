@@ -1,7 +1,7 @@
 # Hi, Alex Blue here! 👋 
 
 ## About
-A college student who has a dream of coding but is now studying design, here is my digital garden.
+A college student who has a dream of coding but is now studying design.
 - 🔭 I’m currently working on learning **[Figma](https://www.figma.com/) 、English and Japanese**.
 - 📫 How to reach me: [alex@iamalex.blue](mailto:alex@iamalex.blue), feel free to contact with me.
 - 📢 This is my personal page [alexblue 的自留地](https://iamalex.blue/) and [YuQue-Blog](https://www.yuque.com/alexblue_blog)
@@ -28,7 +28,7 @@ A college student who has a dream of coding but is now studying design, here is 
   - [浅谈 Microsoft Store 在国内的使用 ( 06-22 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/ku96a2)
   - [朋友圈挤占了个人思考的空间 ( 04-18 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/nqfd4c)
   - [再见，大象 ( 03-28 · 7 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/20210328)
-  - [Hey ( 03-15 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/gyp2xq)
+  - [关于我 ( 03-15 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/gyp2xq)
   - [利用 Pandoc 将 Markdown 转换为 Word、pdf ( 03-12 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/hsyxm4)
 
 
