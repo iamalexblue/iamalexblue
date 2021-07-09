@@ -8,10 +8,10 @@ A college student who has a dream of coding but is now studying design.
 - 💬 Be free to ask me about anything **[here](https://github.com/congjinyebaiya/congjinyebaiya/issues)**.
 
 ## My tools
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+- <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 ## How to know more about me
-<a href='https://twitter.com/fluoxetine12dot'><img alt="Twitter" src="https://img.shields.io/badge/<Twitter>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+- <a href='https://twitter.com/fluoxetine12dot'><img alt="Twitter" src="https://img.shields.io/badge/<Twitter>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 <a href='https://www.instagram.com/iamalexblue/'><img alt="Instagram" src="https://img.shields.io/badge/<instagram>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 <a href='mailto:alexkyleeee@outlook.com/'><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 <a href='https://open.spotify.com/user/m4hkj61zfcat0azhv4zq0uraa'><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
@@ -19,12 +19,9 @@ A college student who has a dream of coding but is now studying design.
 <a href='https://steamcommunity.com/id/fluoxetine12'><img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
 
 ## Acknowledgments
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+- <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   
 ## Latest YuQue-Blog Posts: 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=alexblue-github-page)
-
 {{#each record}}
   - [{{title}} ( {{short created_at "MM-dd"}} · {{math likes_count "*" 7}} 颗稻谷)](https://yuque.com/{{@root.namespace}}/{{slug}})
 {{/each}}
@@ -39,5 +36,4 @@ A college student who has a dream of coding but is now studying design.
 </p>
   
 ## GitHub Action Stats
-- [![YuQue To README](https://github.com/congjinyebaiya/congjinyebaiya/actions/workflows/blank-yuque-to-readme.yml/badge.svg?branch=main)](https://github.com/congjinyebaiya/congjinyebaiya/actions/workflows/blank-yuque-to-readme.yml)
-- [![WakaTime](https://github.com/congjinyebaiya/congjinyebaiya/actions/workflows/blank.yml/badge.svg)](https://github.com/congjinyebaiya/congjinyebaiya/actions/workflows/blank.yml)
+- [![YuQue To README](https://github.com/congjinyebaiya/congjinyebaiya/actions/workflows/blank-yuque-to-readme.yml/badge.svg?branch=main)](https://github.com/congjinyebaiya/congjinyebaiya/actions/workflows/blank-yuque-to-readme.yml) [![WakaTime](https://github.com/congjinyebaiya/congjinyebaiya/actions/workflows/blank.yml/badge.svg)](https://github.com/congjinyebaiya/congjinyebaiya/actions/workflows/blank.yml)
