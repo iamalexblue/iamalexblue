@@ -23,11 +23,11 @@ A college student who has a dream of coding but is now studying design.
   <a href='https://vercel.com/'><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   
 ## Latest YuQue-Blog Posts: 
-  - [为什么有的人总有写不完的灵感 ( 07-07 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/vwv8qf)
-  - [如何真正理解知识管理 ( 07-07 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/zv15gi)
-  - [浅谈 Microsoft Store 在国内的使用 ( 06-22 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/ku96a2)
-  - [朋友圈挤占了个人思考的空间 ( 04-18 · 0 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/nqfd4c)
-  - [再见，大象 ( 03-28 · 7 颗稻谷)](https://yuque.com/congjinyebai/alexkyle/20210328)
+  - [为什么有的人总有写不完的灵感 ( 07-07 · 0 颗稻谷)](https://yuque.com/alexblue_blog/alexblue/vwv8qf)
+  - [如何真正理解知识管理 ( 07-07 · 0 颗稻谷)](https://yuque.com/alexblue_blog/alexblue/zv15gi)
+  - [浅谈 Microsoft Store 在国内的使用 ( 06-22 · 0 颗稻谷)](https://yuque.com/alexblue_blog/alexblue/ku96a2)
+  - [朋友圈挤占了个人思考的空间 ( 04-18 · 0 颗稻谷)](https://yuque.com/alexblue_blog/alexblue/nqfd4c)
+  - [再见，大象 ( 03-28 · 7 颗稻谷)](https://yuque.com/alexblue_blog/alexblue/20210328)
 
 
 <p align="right"><a href="https://www.yuque.com/congjinyebai/alexkyle">➡️ More blog posts</a></p>
