@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: WakaTime
 
 # Controls when the action will run. 
 on:
@@ -27,5 +27,5 @@ jobs:
         uses: matchai/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: b328fb48140e56acda25f44cc1695351
+          GIST_ID: 80e6ae8d2e9d8569d83016ec7fd734f75e3aef62
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
