@@ -39,4 +39,4 @@ A college student who has a dream of coding but is now studying design.
 </p>
   
 ## GitHub Action Stats
-- [![YuQue2Readme](https://github.com/congjinyebaiya/congjinyebaiya/actions/workflows/yuque-to-readme.yml/badge.svg)](https://github.com/congjinyebaiya/congjinyebaiya/actions/workflows/yuque-to-readme.yml)
+- [![Yuque2Readme](https://github.com/iamalexblue/iamalexblue/actions/workflows/yuque-to-readme.yml/badge.svg)](https://github.com/iamalexblue/iamalexblue/actions/workflows/yuque-to-readme.yml)
