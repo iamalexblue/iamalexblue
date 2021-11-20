@@ -4,7 +4,7 @@
 A college student who has a dream of coding but is now studying design.
 - 🔭 I’m currently working on learning **[Figma](https://www.figma.com/) 、English and Japanese**.
 - 📫 How to reach me: **[alex@iamalex.blue](mailto:alex@iamalex.blue)**, feel free to contact with me.
-- 📢 This is my personal page **[alexblue 的自留地](https://iamalex.blue/)** and **[YuQue-Blog](https://www.yuque.com/alexblue_blog)**
+- 📢 This is my personal page **[alexblue 的自留地](https://iamalex.blue/)** and **[Notion-Blog](https://fluoxetine12.notion.site/)**
 - 💬 Be free to ask me about anything **[here](https://github.com/congjinyebaiya/congjinyebaiya/issues)**.
 
 ## My tools
@@ -12,7 +12,7 @@ A college student who has a dream of coding but is now studying design.
 
 ## How to know more about me
 - <a href='https://twitter.com/iamalex_blue'><img alt="Twitter" src="https://img.shields.io/badge/<Twitter>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  <a href='mailto:alexkyleeee@outlook.com/'><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  <a href='mailto:iamalexblue@outlook.com/'><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   <a href='https://telegram.me/Lauwish12/'><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 
 ## Acknowledgments
