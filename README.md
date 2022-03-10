@@ -5,7 +5,7 @@ A college student who has a dream of coding but is now studying design.
 - 🔭 I’m currently working on learning **[Figma](https://www.figma.com/) 、English and Japanese**.
 - 📫 How to reach me: **[alex@iamalex.blue](mailto:alex@iamalex.blue)**, feel free to contact with me.
 - 📢 This is my personal page **[从今夜白](https://iamalex.blue/)** and **[Notion-Blog](https://fluoxetine12.notion.site/)**
-- 💬 Be free to ask me about anything **[here](https://github.com/congjinyebaiya/congjinyebaiya/issues)**.
+- 💬 Be free to ask me about anything **[here](https://github.com/iamalexblue/iamalexblue/issues)**.
 
 ## My tools
 - <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
