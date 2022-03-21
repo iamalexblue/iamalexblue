@@ -20,11 +20,11 @@ A college student who has a dream of coding but is now studying design.
   <a href='https://vercel.com/'><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   
 ## Latest YuQue-Blog Posts: 
+  - [我的截图工具进化史 ( 03-21 · 0 颗稻谷)](https://yuque.com/alexblue_blog/alexblue/screenshot_tools)
   - [毕业、工作和未来 ( 01-20 · 0 颗稻谷)](https://yuque.com/alexblue_blog/alexblue/ez362c)
   - [为什么有的人总有写不完的灵感 ( 07-07 · 0 颗稻谷)](https://yuque.com/alexblue_blog/alexblue/vwv8qf)
   - [如何真正理解知识管理 ( 07-07 · 0 颗稻谷)](https://yuque.com/alexblue_blog/alexblue/zv15gi)
   - [浅谈 Microsoft Store 在国内的使用 ( 06-22 · 0 颗稻谷)](https://yuque.com/alexblue_blog/alexblue/ku96a2)
-  - [朋友圈挤占了个人思考的空间 ( 04-18 · 0 颗稻谷)](https://yuque.com/alexblue_blog/alexblue/nqfd4c)
 
 
 <p align="right"><a href="https://www.yuque.com/congjinyebai/alexkyle">➡️ More blog posts</a></p>
