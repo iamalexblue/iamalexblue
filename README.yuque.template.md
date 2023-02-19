@@ -6,7 +6,7 @@ A Digital product enthusiasts with programming dreams but is now learning design
 - 🔭 I’m currently working on learning **[Figma](https://www.figma.com/) 、English and Japanese**.
 - 📫 How to reach me: **[alex@iamalex.blue](mailto:alex@iamalex.blue)**, feel free to contact with me.
 - 📢 This is my personal page **[从今夜白](https://iamalex.blue/)** and **[Notion-Blog](https://iamalexblue.notion.site/)**
-- 💬 Be free to ask me about anything **[here](https://twitter.com/iamalex_blue)**.
+- 💬 Be free to ask me about anything **[here](https://twitter.com/realexblue)**.
 
 ## My tools
 - <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -14,7 +14,7 @@ A Digital product enthusiasts with programming dreams but is now learning design
 ## How to know more about me
 - <a href='https://twitter.com/realexblue'><img alt="Twitter" src="https://img.shields.io/badge/<Twitter>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   <a href='mailto:realex.blue@msn.com/'><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  <a href='https://telegram.me/'><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href='https://realexblue.t.me/'><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 
 ## Acknowledgments
 - <a href='https://github.com/'><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
