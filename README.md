@@ -1,6 +1,6 @@
 # 🍋Hi, Alex Blue here! 
 ## About
-A tech product enthusiast with a dream of coding but currently studying UI/UX, who is unsure of what to do. 
+A tech product enthusiast with a dream of coding but currently studying design, who is unsure of what to do. 
 
 - 🔭 I’m currently working on learning **[Figma](https://www.figma.com/) 、English and Japanese**.
 - 📢 This is my personal page **[从今夜白](https://iamalex.blue/)** and **[my blog](https://ifruit.club/)**
