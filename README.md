@@ -28,7 +28,7 @@
   <h2>Contact with me</h2>
     <div>
       <blockquote>
-        <p>if you have anything question, feel free to contaxt with me.</p>
+        <p>if you have anything question, feel free to contact with me.</p>
         <div class="social media row">
           <a href="https://x.com/realexblue"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
           <a href="https://t.me/blue_wonderland"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
