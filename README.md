@@ -6,7 +6,7 @@
     <p>
       <ul>
         <li>🔭 I’m currently working on learning <a href="https://figma.com"><strong>Figma</strong></a> 、English and Japanese.</li>
-        <li>📢 This is my personal page <a href="https://iamalex.blue"><strong>从今夜白</strong></a> and <a href="https://ifruit.club/"><strong>my Xlog</strong></a>.</li>
+        <li>📢 This is my personal page <a href="https://iamalex.blue"><strong>瑞蓝幻境</strong></a> and <a href="https://ifruit.club/"><strong>my Xlog</strong></a>.</li>
         <li>💪 Also with my Strava Athlete Dashboard <a href="https://strava.iamalex.blue/"><strong>Grafana-strava</strong></a>.</li>
         <li>💬 Be free to ask me about anything with <a href="mailto:me@ifruit.club"><strong>💌Email</strong></a>.</li>
       </ul>
