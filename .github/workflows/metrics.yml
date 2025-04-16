@@ -14,6 +14,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: iamalexblue/metrics@latest
+      - uses: fluoxetine12/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
