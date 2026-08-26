@@ -5,8 +5,7 @@
 A tech product enthusiast with a dream of coding but currently studying UI/UX.
 
 - 🔭 I’m currently working on learning [**Figma**](https://figma.com), English and Japanese.
-- 📢 This is my personal page [**瑞蓝幻境**](https://iamalex.blue) and [**my Xlog**](https://ifruit.club/).
-- 💪 Also with my Strava Athlete Dashboard [**Grafana-strava**](https://strava.iamalex.blue/).
+- 📢 This is my blog [**瑞蓝幻境**](https://iamalex.blue) .
 - 💬 Be free to ask me about anything with [**💌Email**](mailto:me@ifruit.club).
 
 ## My tools
